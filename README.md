@@ -11,7 +11,7 @@
 <p>
 <b> Step 2: 3-D Images - Making Pictures in the Real World by adding light, shadow and material: </b> <br>
 <b>Main dependencies: </b><br><br>
-  <img src='https://github.com/Michal961/3D-images/blob/main/img/Main%20dependencies.png' width='600'> <br><br>
+  <img src='https://github.com/Michal961/3D-images/blob/main/img/Main%20dependencies.png' width='700'> <br><br>
 <b>Few examples </b><br>
 </p>
  <img src='https://github.com/Michal961/3D-images/blob/main/img/Point%20test%202.jpg' width='400'>
